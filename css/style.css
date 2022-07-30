@@ -9,6 +9,8 @@
 
 body {
     background: linear-gradient(to bottom, #0b3379, #f4f4f4);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     text-align: center;
     min-height: 100vh;
     background-position: center;
@@ -92,6 +94,6 @@ main {
 }
 
 .button:active {
-    box-shadow: inset -2.5px 3px 0 #222;
+    box-shadow: inset -2.4px 3px 0 #222;
     font-size: 0.8rem;
 }
