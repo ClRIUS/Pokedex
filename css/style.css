@@ -94,6 +94,6 @@ main {
 }
 
 .button:active {
-    box-shadow: inset -2.4px 3px 0 #222;
+    box-shadow: inset -2.5px 3px 0 #222;
     font-size: 0.8rem;
 }
